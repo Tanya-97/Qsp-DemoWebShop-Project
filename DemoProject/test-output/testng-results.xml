@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T16:06:37 IST" name="Suite" finished-at="2024-02-13T16:08:01 IST" duration-ms="84606">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T16:06:37 IST" name="Test" finished-at="2024-02-13T16:08:01 IST" duration-ms="84606">
+      <class name="system.Tc_tourist_003_Test">
+        <test-method signature="makemytrip()[pri:0, instance:system.Tc_tourist_003_Test@14028087]" started-at="2024-02-13T16:07:05 IST" name="makemytrip" finished-at="2024-02-13T16:07:08 IST" duration-ms="2964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makemytrip -->
+      </class> <!-- system.Tc_tourist_003_Test -->
+      <class name="integration.Tc_Beauty_001_Test">
+        <test-method signature="lakme()[pri:0, instance:integration.Tc_Beauty_001_Test@4681c175]" started-at="2024-02-13T16:06:41 IST" name="lakme" finished-at="2024-02-13T16:06:44 IST" duration-ms="3356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lakme -->
+      </class> <!-- integration.Tc_Beauty_001_Test -->
+      <class name="Funcinality.Tc_car_003_Test">
+        <test-method signature="ferrari()[pri:0, instance:Funcinality.Tc_car_003_Test@5032714f]" started-at="2024-02-13T16:06:58 IST" name="ferrari" finished-at="2024-02-13T16:07:01 IST" duration-ms="2907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ferrari -->
+      </class> <!-- Funcinality.Tc_car_003_Test -->
+      <class name="Funcinality.Tc_car_002_Test">
+        <test-method signature="roycemotorscar()[pri:0, instance:Funcinality.Tc_car_002_Test@5524cca1]" started-at="2024-02-13T16:06:47 IST" name="roycemotorscar" finished-at="2024-02-13T16:06:51 IST" duration-ms="3391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- roycemotorscar -->
+      </class> <!-- Funcinality.Tc_car_002_Test -->
+      <class name="integration.Tc_Beauty_004_Test">
+        <test-method signature="sugar()[pri:0, instance:integration.Tc_Beauty_004_Test@6fa51cd4]" started-at="2024-02-13T16:07:11 IST" name="sugar" finished-at="2024-02-13T16:07:26 IST" duration-ms="14190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sugar -->
+      </class> <!-- integration.Tc_Beauty_004_Test -->
+      <class name="Funcinality.Tc_car_005_Test">
+        <test-method signature="lamborgini()[pri:0, instance:Funcinality.Tc_car_005_Test@353352b6]" started-at="2024-02-13T16:07:29 IST" name="lamborgini" finished-at="2024-02-13T16:07:31 IST" duration-ms="2181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lamborgini -->
+      </class> <!-- Funcinality.Tc_car_005_Test -->
+      <class name="integration.Tc_Beauty_002_Test">
+        <test-method signature="loreal()[pri:0, instance:integration.Tc_Beauty_002_Test@57a78e3]" started-at="2024-02-13T16:06:51 IST" name="loreal" finished-at="2024-02-13T16:06:54 IST" duration-ms="3037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loreal -->
+      </class> <!-- integration.Tc_Beauty_002_Test -->
+      <class name="system.Tc_tourist_001_Test">
+        <test-method signature="redbus()[pri:0, instance:system.Tc_tourist_001_Test@710c2b53]" started-at="2024-02-13T16:06:44 IST" name="redbus" finished-at="2024-02-13T16:06:47 IST" duration-ms="2809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redbus -->
+      </class> <!-- system.Tc_tourist_001_Test -->
+      <class name="integration.Tc_Beauty_005_Test">
+        <test-method signature="mac()[pri:0, instance:integration.Tc_Beauty_005_Test@2767e23c]" started-at="2024-02-13T16:07:31 IST" name="mac" finished-at="2024-02-13T16:07:58 IST" duration-ms="26695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mac -->
+      </class> <!-- integration.Tc_Beauty_005_Test -->
+      <class name="system.Tc_tourist_004_Test">
+        <test-method signature="trivago()[pri:0, instance:system.Tc_tourist_004_Test@cecf639]" started-at="2024-02-13T16:07:26 IST" name="trivago" finished-at="2024-02-13T16:07:29 IST" duration-ms="3309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trivago -->
+      </class> <!-- system.Tc_tourist_004_Test -->
+      <class name="system.Tc_tourist_005_Test">
+        <test-method signature="e()[pri:0, instance:system.Tc_tourist_005_Test@1caa0244]" started-at="2024-02-13T16:07:58 IST" name="e" finished-at="2024-02-13T16:08:01 IST" duration-ms="3576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e -->
+      </class> <!-- system.Tc_tourist_005_Test -->
+      <class name="integration.Tc_Beauty_003_Test">
+        <test-method signature="purple()[pri:0, instance:integration.Tc_Beauty_003_Test@402c4085]" started-at="2024-02-13T16:07:01 IST" name="purple" finished-at="2024-02-13T16:07:05 IST" duration-ms="3396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purple -->
+      </class> <!-- integration.Tc_Beauty_003_Test -->
+      <class name="system.Tc_tourist_002_Test">
+        <test-method signature="irctcApp()[pri:0, instance:system.Tc_tourist_002_Test@5386659f]" started-at="2024-02-13T16:06:54 IST" name="irctcApp" finished-at="2024-02-13T16:06:58 IST" duration-ms="4824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcApp -->
+      </class> <!-- system.Tc_tourist_002_Test -->
+      <class name="Funcinality.Tc_car_004_Test">
+        <test-method signature="audi()[pri:0, instance:Funcinality.Tc_car_004_Test@48bb62]" started-at="2024-02-13T16:07:08 IST" name="audi" finished-at="2024-02-13T16:07:11 IST" duration-ms="3740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- audi -->
+      </class> <!-- Funcinality.Tc_car_004_Test -->
+      <class name="Funcinality.Tc_car_001_Test">
+        <test-method signature="benz()[pri:0, instance:Funcinality.Tc_car_001_Test@7f485fda]" started-at="2024-02-13T16:06:37 IST" name="benz" finished-at="2024-02-13T16:06:41 IST" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- benz -->
+      </class> <!-- Funcinality.Tc_car_001_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
